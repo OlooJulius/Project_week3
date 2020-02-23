@@ -1,0 +1,39 @@
+.header{
+    background: url("../images/backgrounds/h_img.jpg");
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.header #logo{
+    padding-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;  
+    display: block;
+    
+}
+
+.header #text{
+    padding-top: 3px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 60px;
+    font-size-adjust: auto;
+}
+
+.header #text-center{
+    color: #ffffff;
+    font-family: sans-serif;
+
+}
+
+.header #mouse{
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 200px;
+
+}
