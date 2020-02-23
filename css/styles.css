@@ -8,7 +8,7 @@
 }
 
 .header #logo{
-    padding-bottom: 20px;
+    margin-top: 30px;
     margin-right: auto;
     margin-left: auto;
     height: 50px;  
@@ -17,6 +17,7 @@
 }
 
 .header #text{
+    margin-top: 30px;
     padding-top: 3px;
     padding-bottom: 30px;
     text-align: center;
@@ -36,4 +37,16 @@
     margin-left: auto;
     padding-top: 200px;
 
+}
+
+
+/* About us section */
+
+.about{
+    text-align: center;
+}
+
+.about p{
+    margin-bottom: 30px;
+    line-height: 32px;
 }
