@@ -1,6 +1,7 @@
+/* header */
 .header{
     background: url("../images/backgrounds/h_img.jpg");
-    height: 800px;
+    height: 500px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -42,11 +43,38 @@
 
 /* About us section */
 
-.about{
+.about #us{
     text-align: center;
+}
+
+#us{
+    margin-top: 30px;
 }
 
 .about p{
     margin-bottom: 30px;
     line-height: 32px;
+}
+
+/* services */
+
+.services {
+    text-align: center;
+    background: url("../images/backgrounds/s_image.jpg");
+    color: #ffffff;
+    height: 450px;
+    
+}
+
+.services p{
+    margin-top: 32px;
+    padding-top: 10px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.services h1 {
+    margin-top: 60px;
+    padding-top: 80px;
+
 }
