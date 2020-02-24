@@ -90,6 +90,12 @@
     padding-top: 80px;
 
 }
+/* what we do */
+h4 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
 
 /* portfolio */
 
@@ -128,6 +134,12 @@
  
 .contact input #email{
     margin-right: 3px;
+}
+
+/* social */
+
+.social{
+    margin-top: 30px;
 }
 
 /* footer */
