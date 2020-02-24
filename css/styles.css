@@ -90,3 +90,16 @@
     padding-top: 80px;
 
 }
+
+/* portfolio */
+
+.portfolio {
+    text-align: center;
+
+}
+
+.row{
+    justify-content: space-evenly;
+    margin-bottom: 5px;
+}
+ 
