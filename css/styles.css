@@ -102,4 +102,30 @@
     justify-content: space-evenly;
     margin-bottom: 5px;
 }
+
+/* contact */
+
+.contact{
+    background-image: url("../images/backgrounds/c_image.jpg");
+    margin-top: 30px;
+    text-align: center;
+}
+
+.contact h5{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.contact input{
+    margin: auto;
+    padding: auto;
+    height: 30px;
+
+}
+ 
+.contact input #email{
+    margin-right: 3px;
+}
  
