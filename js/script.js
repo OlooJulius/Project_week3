@@ -1,16 +1,18 @@
+// toggle items 
+
 $(document).ready(function(){
   $(".icon").click(function(){
-    $(".show").toggle();
+    $("#show").toggle();
   });
 });
 $(document).ready(function(){
   $(".icon2").click(function(){
-    $(".show2").toggle();
+    $("#show2").toggle();
   });
 });
 $(document).ready(function(){
   $(".icon3").click(function(){
-    $(".show3").toggle();
+    $("#show3").toggle();
   });
 });
 $(document).ready(function(){

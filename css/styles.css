@@ -43,7 +43,7 @@
 .header #mouse{
     margin-right: auto;
     margin-left: auto;
-    padding-top: 200px;
+    padding-top: 20px;
 
 }
 
@@ -91,6 +91,10 @@
 
 }
 /* what we do */
+
+#show,#show2,#show3{
+    display: none;
+}
 h4 {
     text-align: center;
     margin-top: 30px;
