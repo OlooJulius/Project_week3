@@ -107,6 +107,7 @@
 
 .contact{
     background-image: url("../images/backgrounds/c_image.jpg");
+    background: cover;
     margin-top: 30px;
     text-align: center;
 }
