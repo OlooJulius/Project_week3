@@ -1,30 +1,30 @@
-#TITLE
+## TITLE
 
 DELANI STUDIO
 
-#DESCRIPTION
+## DESCRIPTION
 
 Delani studio is a simple website that is intended to review skills learnt in Jquery,mailchimp and Bootstrap
 
-#AUTHOR
+## AUTHOR
 
 OLOO JULIUS OLERO
 
-#Set-up Instructions
+## Set-up Instructions
 
 git clone https://github.com/OlooJulius/Project_week3.git into local machine.
 Runs on all browser.
 
-#TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
 HTML,CSS,JS,BOOTSTRAP AND Jquery.
 
-#CONTACT INFORMATION
+## CONTACT INFORMATION
 
 Phone : +(254) 705-758-781
 Email : juliusolooolero@gmai.com
 
-#LICENSE AND COPRIGHT
+## LICENSE AND COPRIGHT
 Copyright <2020>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
